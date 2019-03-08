@@ -1,7 +1,8 @@
 Podcasting info notes/resources
 
 ## Research
-Edison Research "The Infinite Dial 2019" https://www.edisonresearch.com/wp-content/uploads/2019/03/Infinite-Dial-2019-PDF-1.pdf
+Edison Research "The Infinite Dial 2019"  
+https://www.edisonresearch.com/wp-content/uploads/2019/03/Infinite-Dial-2019-PDF-1.pdf
 
 ## Apple
 Podcast Analytics Beta Help https://help.apple.com/itc/podcastsanalytics/
@@ -37,7 +38,9 @@ Basic Analytics https://support.libsyn.com/kb/basic-statistics/
 Advanced Analytics https://support.libsyn.com/kb/advanced-statistics/
 
 ## Market Share
-
+The Feed: The Official Libsyn Podcast "120 More On Google’s Podcasting Strategy And Watch Where You Spend 5k"   
+https://blog.libsyn.com/2018/05/19/120-more-on-googles-podcasting-strategy-and-watch-where-you-spend-5k/  
+@1:05:00  
 Apple Podcasts: 62.53% (up)
 Spotify: 6.18% (up)
 Overcast: 2.98%
@@ -55,8 +58,9 @@ iHeart Radio
 Tunein Radio …
 https://www.listennotes.com/clips/120-more-on-googles-podcasting-strategy-and-YHcLRDSjogb/
 
-<img src="https://cdn-images-1.medium.com/max/2400/1*XjdPLjbfE-8tY1_vnorvQQ.jpeg">
-https://medium.com/anchor/how-people-listen-to-podcasts-ba0c57a5f952
+<img src="https://cdn-images-1.medium.com/max/2400/1*XjdPLjbfE-8tY1_vnorvQQ.jpeg">  
+https://medium.com/anchor/how-people-listen-to-podcasts-ba0c57a5f952  
+(<ahref="https://medium.com/anchor/anchor-is-joining-spotify-70356e3ac23f">Anchor acquired by Spotify</a> 2019-02)
 
 ## Tools
 Clips
@@ -64,6 +68,7 @@ https://www.listennotes.com/clips/
 
 ## Distribution (players and directories)
 
+### Submission guides/lists
 https://help.anchor.fm/hc/en-us/sections/360003839491-Distributing-your-podcast-
 
 ## Amazon/Alexa

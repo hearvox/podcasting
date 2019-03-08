@@ -69,6 +69,9 @@ https://www.listennotes.com/clips/
 ## Distribution (players and directories)
 
 ### Submission guides/lists
-https://help.anchor.fm/hc/en-us/sections/360003839491-Distributing-your-podcast-
+* Achor https://help.anchor.fm/hc/en-us/sections/360003839491-Distributing-your-podcast-
+* Polymash https://polymash.com/podcasting-resources-guide/
+
+
 
 ## Amazon/Alexa

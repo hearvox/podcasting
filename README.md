@@ -36,7 +36,34 @@ Basic Analytics https://support.libsyn.com/kb/basic-statistics/
 
 Advanced Analytics https://support.libsyn.com/kb/advanced-statistics/
 
+## Market Share
 
+Apple Podcasts: 62.53% (up)
+Spotify: 6.18% (up)
+Overcast: 2.98%
+Podcast Addict: 2.19%
+Castbox: 2.14%
+Stitcher: 2.06%
+Pocket Casts: 1.58%
 
+Less than 1%:
+Podbean
+Player FM
+Podcasts
+Downcast
+iHeart Radio
+Tunein Radio …
+https://www.listennotes.com/clips/120-more-on-googles-podcasting-strategy-and-YHcLRDSjogb/
+
+<img src="https://cdn-images-1.medium.com/max/2400/1*XjdPLjbfE-8tY1_vnorvQQ.jpeg">
+https://medium.com/anchor/how-people-listen-to-podcasts-ba0c57a5f952
+
+## Tools
+Clips
+https://www.listennotes.com/clips/
+
+## Distribution (players and directories)
+
+https://help.anchor.fm/hc/en-us/sections/360003839491-Distributing-your-podcast-
 
 ## Amazon/Alexa
